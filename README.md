@@ -10,10 +10,10 @@
 </head>
 <body>
     <div class="greetings">
-        <span>halo sayangku :3</span>
+        <span>halo :3</span>
     </div>
     <div class="description">
-        <span>Buka ya Cantik, aku udah pusing2 buatnya</span>
+        <span>Buka ya Cantik</span>
     </div>
     <div class="button">
         <button>
